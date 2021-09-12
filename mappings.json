@@ -1,0 +1,72 @@
+{
+    "0": {
+        "Tier": "Trash",
+        "Descriptions": [
+            "Sometimes when you dumpster dive, all you get is dumpster",
+            "Fetched a nasty garbage can",
+            "Try again, this is not a good prize",
+            "Uh oh, stinky",
+            "One man's trash is another man's treasure, but this just looks like trash"
+        ]
+    },
+    "1": {
+        "Tier": "Trash",
+        "Descriptions": [
+            "Sometimes when you dumpster dive, all you get is dumpster",
+            "Fetched a nasty garbage can",
+            "Try again, this is not a good prize",
+            "Uh oh, stinky",
+            "One man's trash is another man's treasure, but this just looks like trash"
+        ]
+    },
+    "2": {
+        "Tier": "Wood",
+        "Descriptions": [
+            "You can't help but feel that you could have just grabbed it out of the forest",
+            "Wood beats trash, but this one's a little moldy",
+            "Sticks and stones may break my bones but logs definitely will",
+            "Wood you like another?"
+        ]
+    },
+    "3": {
+        "Tier": "Bone",
+        "Descriptions": [
+            "Think of it as a consolation prize",
+            "You feel fate smiling upon you, there might be more here than you first thought.",
+            "You reach in and pull out a glistening white bone. It might make a good Halloween decoration.",
+            "Struggle as you may, you can't quite figure out what's so humerus."
+        ]
+    },
+    "4": {
+        "Tier": "Bronze",
+        "Descriptions": [
+            "A podium win, keep at it!",
+            "Now we're getting somewhere",
+            "Finally something metal to add to the trinket pile"
+        ]
+    },
+    "5": {
+        "Tier": "Silver",
+        "Descriptions": [
+            "You don't win silver, you lose gold",
+            "Climbing up the podium!",
+            "A glittering ingot of pure silver chills your fingers"
+        ]
+    },
+    "6": {
+        "Tier": "Gold",
+        "Descriptions": [
+            "Standing atop the podium, you show off your gold to the world, but you feel like something is missing",
+            "Gold! First Place! The best possible! Unless...",
+            "A sparkling bar of precious metal drops into your hands",
+            "There's gold in them thar hills!"
+        ]
+    },
+    "7": {
+        "Tier": "Diamond",
+        "Descriptions": [
+            "This is it! You've walked away with a shining diamond",
+            "A winner is you"
+        ]
+    }
+}
